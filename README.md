@@ -1,12 +1,12 @@
 # ikeaV1V2 
 架设ikeaV1和V2 脚本 
 
-支持设备 :
-mac : Cicso Ipsec
-ios : Cicso Ipsec ; ikeaV1 ; ikeaV2
-win7 : ikeaV1
-win8 : ikeaV1 ; ikeaV2
-android : Cicso Ipsec
+支持设备 :  
+mac : Cicso Ipsec  
+ios : Cicso Ipsec ; ikeaV1 ; ikeaV2  
+win7 : ikeaV1  
+win8 : ikeaV1 ; ikeaV2  
+android : Cicso Ipsec  
 
 支持认证方法:
 用户名,密码,共享密钥
